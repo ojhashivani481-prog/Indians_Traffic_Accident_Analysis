@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Traffic Accident Analysis
+# Indian Traffic Accident Analysis
 
 ## 📌 Project Overview
 
@@ -206,11 +206,11 @@ The analysis references fields such as:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Shivani Ojha**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization
 
-🔗 GitHub: https://github.com/YOUR-USERNAME
+🔗 GitHub: https://github.com/ojhashivani481-prog
 
 ---
 
